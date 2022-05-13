@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsosorioe
+- 👋 Hi, I’m @jsosorioe Sebastian Osorio
 - 👀 I’m interested in data science and clouding
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ANN
