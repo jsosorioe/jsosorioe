@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsosorioe Sebastian Osorio
 - 👀 I’m interested in data science and clouding
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS Educate
 - 💞️ I’m looking to collaborate on ANN
 - 📫 How to reach me in https://www.linkedin.com/in/jose-sebastian-osorio-espinosa
 
