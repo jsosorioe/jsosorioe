@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsosorioe Sebastian Osorio
+- 👋 Hi, I’m @jsosorioe Sebastian Osorio, Electrical Engineer
 - 👀 I’m interested in data science and clouding
 - 🌱 I’m currently learning AWS Educate
 - 💞️ I’m looking to collaborate on ANN
