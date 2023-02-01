@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsosorioe Sebastian Osorio, Electrical Engineer
+- 👋 Hi, I’m @jsosorioe Sebastian Osorio from Colombia, I am an engineer Electrical Engineer
 - 📫 How to reach me in https://www.linkedin.com/in/jose-sebastian-osorio-espinosa
 
 [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-sebastian-osorio-espinosa/)  
