@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @jsosorioe Sebastian Osorio, Electrical Engineer
 - 📫 How to reach me in https://www.linkedin.com/in/jose-sebastian-osorio-espinosa
 
-💼 [Portfolio](https://cdlavacudeg.github.io/)  
-💼 [Portfolio](https://cdlavacudeg.netlify.app/)  
-
 [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'>](linkedin.com/in/jose-sebastian-osorio-espinosa/)  
 [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg' alt='github' height='40'>](github.com/jsosorioe)
 <!---
